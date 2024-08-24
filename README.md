@@ -1,5 +1,5 @@
 # BlockChain
-Basic Guide for understanding blockchain technology for beginner's
+Basic Guide for understanding blockchain technology for beginner's.
 
 # Requirement
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
@@ -11,11 +11,10 @@ Basic Guide for understanding blockchain technology for beginner's
 
 1. Make sure [Python 3.8+](https://www.python.org/downloads/) is installed. 
 2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
-
+3. Install requirements 
 ```
 $ pip install pipenv 
-```
-3. Install requirements  
+``` 
 ```
 $ pip install flask 
 ```
