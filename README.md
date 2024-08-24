@@ -21,3 +21,12 @@ $ pip install flask
 ```
 $ pip install requests
 ```
+4. Run the code
+   - Basic Block Function.py
+   - Genesys Blcok.py
+   - 2nd Block.py
+   - Block Linkage.py
+     
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
