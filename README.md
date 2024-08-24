@@ -17,9 +17,6 @@ $ pip install pipenv
 ```
 3. Install requirements  
 ```
-$ pipenv install 
-```
-```
 $ pip install flask 
 ```
 ```
